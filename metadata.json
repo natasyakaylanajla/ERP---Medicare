@@ -1,0 +1,5 @@
+{
+  "name": "MediCore ERP AI",
+  "description": "A composable, AI-driven Hospital ERP featuring financial anomaly detection, inventory demand forecasting, and intelligent staff scheduling optimization using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
